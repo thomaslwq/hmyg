@@ -1,4 +1,4 @@
-# 黑马优购商城
+# 优购商城
 -  下载 代码到本地 ``` git clone https://github.com/thomaslwq/hmyg.git```
 
 - 导入到微信开发工具中
